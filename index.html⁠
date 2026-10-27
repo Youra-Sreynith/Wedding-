@@ -1,1 +1,31 @@
-# Wedding-
+<!DOCTYPE html>
+<html lang="km">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ពិធីអាពាហ៍ពិពាហ៍ - ធី យូរ៉ា & កុសល ស្រីនីត</title>
+    <link href="https://fonts.googleapis.com/css2?family=Kantumruuy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Kantumruuy Pro', sans-serif; background-color: #fcf9f2; color: #333; text-align: center; padding: 20px; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        .card { max-width: 450px; width: 100%; background: #fff; border: 2px solid #d4af37; border-radius: 15px; padding: 30px 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        h1 { color: #9e1c25; font-size: 20px; margin-bottom: 10px; }
+        .names { font-size: 24px; color: #d4af37; font-weight: bold; margin: 20px 0; }
+        .info { background: #faf5ed; padding: 15px; border-radius: 8px; text-align: left; margin: 15px 0; line-height: 1.6; }
+        .footer { color: #9e1c25; font-weight: bold; margin-top: 20px; font-size: 15px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>សូមគោរពអញ្ជើញចូលរួមពិធីអាពាហ៍ពិពាហ៍</h1>
+        <p>កូនប្រុស - កូនស្រី របស់យើងខ្ញុំ</p>
+        <div class="names">ធី យូរ៉ា & កុសល ស្រីនីត</div>
+        <div class="info">
+            <p><strong>🗓 ថ្ងៃទី៖</strong> ថ្ងៃព្រហស្បតិ៍ ទី១៩ ខែវិច្ឆិកា ឆ្នាំ២០២៦</p>
+            <p><strong>⏰ វេលា៖</strong> ម៉ោង ៥:០០ ល្ងាច</p>
+            <p><strong>📍 ទីតាំង៖</strong> នៅគេហដ្ឋានខាងស្រី ភូមិកងតាណឹងទី៧ ឃុំកងតាណឹង ស្រុកកងមាស ខេត្តកំពង់ចាម</p>
+        </div>
+        <div class="footer">វត្តមានរបស់លោកអ្នកជាកិត្តិយសដ៏ខ្ពង់ខ្ពស់!</div>
+    </div>
+</body>
+</html>
+
